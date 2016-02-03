@@ -1,0 +1,2 @@
+prompt $G
+java -jar CuboSolver.jar
