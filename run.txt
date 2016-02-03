@@ -1,2 +1,2 @@
 prompt $G
-java -jar CuboSolver.jar
+java -jar dist\CuboSolver.jar
