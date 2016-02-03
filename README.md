@@ -56,7 +56,7 @@ Me pareció absurdo que el programa realizase más iteraciones, si se necesita m
 ningún sentido práctico.<br/>
 Fijemonos en la imagen de abajo:<br/>
 ![Print Example](printExample/printExample.png)<br/>
-En **verde** tenemos la situación actual, tenemos dos cubos de 8 y 5 litros vacios (capacidad/cantidad).<br/>
+En **verde** tenemos la situación actual, tenemos dos cubos de 8 y 5 litros vacios (cantidad/capacidad).<br/>
 En **rosa** la iteración actual.<br/>
 En **naranja** los operadores disponibles. Siguiendo el orden expuesto anteriormente el op "0" es llenar el 1º cubo y el "1" es llenar el cubo 2º.
 A continuación se puede ver la comprobación de si el operador devuelve a una situación anterior (maded?).<br/>
