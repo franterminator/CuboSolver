@@ -55,7 +55,7 @@ El programa imprime los resultados que va obteniendo en las diferentes iteracion
 Me pareció absurdo que el programa realizase más iteraciones, si se necesita mas de 100 iteraciones el problema no tiene
 ningún sentido práctico.<br/>
 Fijemonos en la imagen de abajo:<br/>
-![Print Example](https://franterminator.github.com/printExample/printExample.png)<br/>
+![Print Example](printExample/printExample.png)<br/>
 En **verde** tenemos la situación actual, capacidad/cantidad.<br/>
 En **rosa** la iteración actual.<br/>
 En **naranja** los operadores disponibles. Siguiendo el orden expuesto anteriormente el op "0" es llenar el 1º cubo y el "1" es llenar el cubo 2º.
